@@ -1,3 +1,7 @@
+# Overview
+
+* The goal of this project is to implement Gate.io Typescript SDK that can be used in a browser.
+
 ## gate-api@6.94.0
 
 TypeScript NodeJS client for gate-api.
